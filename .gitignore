@@ -1,0 +1,5 @@
+# Real Wi-Fi name and password (copy gps_tracker/arduino_secrets.example.h to make it)
+arduino_secrets.h
+
+# Binaries from arduino-cli compile --export-binaries
+build/
